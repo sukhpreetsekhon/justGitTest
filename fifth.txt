@@ -1,2 +1,2 @@
 chnges to see in staging area.adding to stagging stage and then back to working copy
-new change to the file.Added new branch.
+new change to the file.Added new branch.hello new changes
